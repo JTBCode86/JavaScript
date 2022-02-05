@@ -18,4 +18,4 @@ const vBoolean2 = false; // Verdadeiro ou falso
 //verificar o tipo da variavel
 console.log(typeof vBoolean2);
 console.log(typeof sobrenomeAluno);
-console.log(typeof nome,nome1);
+console.log(typeof (nome));
