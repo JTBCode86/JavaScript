@@ -1,0 +1,9 @@
+//Sobre os comentarios em linha...
+/*Sobre os comentários em bloco...*/
+console.log("Olá mundo, teste para incluir comentários.");
+console.log("Linha 1");
+console.log("Linha 2");
+console.log("Linha 3");
+console.log("Linha 4");
+//Comentario....
+//JavaScript vida que segue...
