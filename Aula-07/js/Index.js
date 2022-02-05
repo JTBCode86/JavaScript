@@ -26,3 +26,7 @@ resultadoTriplicado+5;
 console.log("O resultado é:",resultado);
 console.log("O resultado duplicado é:",resultadoDuplicado);
 console.log("O resultado triplicado acrescido de 5 é:",resultadoTriplicado);
+
+// Informa o tipo da variavel. 
+console.log(typeof(primeiroNumero)); 
+console.log(typeof(nome)); 
